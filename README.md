@@ -1,1 +1,1 @@
-# OpenSea-NFT-Buying-Bot
+# OpenSea NFT Buying Bot
