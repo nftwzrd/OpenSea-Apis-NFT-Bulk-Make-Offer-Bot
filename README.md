@@ -35,7 +35,7 @@
 <br />
 
 
-- Building a series of bots for OpenSea Market Place.
+# Building a series of bots for OpenSea Market Place.
 - Art Buying Bot
 - Bidding + offer Bot
 - Notification Bot - Sale, price, profile activity
