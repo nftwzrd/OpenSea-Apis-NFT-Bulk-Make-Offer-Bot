@@ -33,3 +33,14 @@
   <strong>For Disscussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
 <br />
+
+Building a series of OpenSea bots for NFT Art.
+Art Buying Bot
+Bidding + offer Bot
+Notification Bot - Sale, price, profile activity
+Art and Metadata Scraping Bot
+Bulk Auto deploy and Art Minting Bot
+Python Generative Art Bot 
+Rarity Ranking Bot
+Suggestions are welcome.
+
