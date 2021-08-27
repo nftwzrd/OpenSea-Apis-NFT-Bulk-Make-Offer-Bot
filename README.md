@@ -35,7 +35,7 @@
 <br />
 
 
-- Building a series of OpenSea bots for NFT Art.
+- Building a series of bots for OpenSea Market Place.
 - Art Buying Bot
 - Bidding + offer Bot
 - Notification Bot - Sale, price, profile activity
@@ -44,4 +44,5 @@
 - Python Generative Art Bot 
 - Rarity Ranking Bot
 - Suggestions are welcome.
+#nft
 
