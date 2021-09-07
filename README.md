@@ -7,7 +7,6 @@
 
 
 <div align="center">
-	<div align="center">
 
   <a href="https://join.skype.com/invite/y8jt9Ecc32SF">
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" />
@@ -36,10 +35,10 @@
 <div align="center">
   <strong>For Disscussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
-	
-	
 <br />
+
 # Building a series of bots for OpenSea Market Place.
+
 - Art Buying Bot
 - Bidding + offer Bot
 - Notification Bot - Sale, price, profile activity
