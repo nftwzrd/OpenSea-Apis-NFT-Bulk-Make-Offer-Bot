@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-
   <a href="https://join.skype.com/invite/y8jt9Ecc32SF">
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" />
 <code> zeeshan.ahmad400</code>
@@ -30,11 +29,11 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
 </div>
+	
 <div align="center">
-	
-	
   <strong>For Disscussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
+	
 	
 <br />
 # Building a series of bots for OpenSea Market Place.
