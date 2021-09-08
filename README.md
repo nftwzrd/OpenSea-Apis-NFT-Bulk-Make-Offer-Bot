@@ -31,7 +31,7 @@
 </a>
 	<span> ┃ </span>
   <a href="." style="margin-top: 12px;">
-  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" />
+  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://logowik.com/content/uploads/images/upwork.jpg" />
 	  <code>Zee#0291</code>
 </a>
 	
