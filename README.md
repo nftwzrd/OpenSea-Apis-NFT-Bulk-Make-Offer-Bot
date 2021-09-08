@@ -51,14 +51,14 @@
 
 
 # Make Bulk Offer Bots 
-###Bot Inputs-
+### Bot Inputs-
 
  1. Collection URL 
  2. Metamask
-Bid Amount
-Bid expiration time  - only for Apis bot
- The Bot takes collection Url as input and starts making offers on collection arts. 
-
+ 3. Bid Amount
+ 4. Bid expiration time  - only for Apis bot
+ 
+The Bot takes collection Url as input and starts making offers on arts of collection. 
 I have built two kinds of bots.
 
 
