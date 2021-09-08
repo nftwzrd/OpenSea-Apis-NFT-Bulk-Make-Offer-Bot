@@ -71,3 +71,9 @@ I have built two kinds of bots.
 
 Check more about the topic of why the browser consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 
+## Bot#2  OpenSea Apis Bot 
+- Build on Opensea Official Apis.
+- The Bot is fast and robust - It does not need to sign transactions.
+- The Bot can make offers with custom expiration time from 1 minute to 6months.
+- The Bot will never break because its light weighted and uses open sea Offical Apis. 
+- The Bot can make offers on multiple Collections in one run. 
