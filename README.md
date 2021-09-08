@@ -4,8 +4,6 @@
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/fullcrop.png" alt="Logo" width="140" height="220">
   </a>
 </p>
-
-
 <div align="center">
 
   <a href="https://join.skype.com/invite/y8jt9Ecc32SF">
@@ -23,7 +21,7 @@
   <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 	<code>@zeeshanahmad4</code>
 </a>
-	<span> ┃ </span>
+	<span>┃</span>
   <a href="" style="margin-top: 12px;">
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	  <code>Zee#0291</code>
