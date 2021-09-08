@@ -28,6 +28,14 @@
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	  <code>Zee#0291</code>
 </a>
+</a>
+	<span> ┃ </span>
+  <a href="." style="margin-top: 12px;">
+  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" />
+	  <code>Zee#0291</code>
+</a>
+	
+	
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
 </div>
