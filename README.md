@@ -50,7 +50,7 @@
 #nft
 
 
-# Make Bulk Offer Bots 
+# Make Bulk Offer Bot
 ### Bot Inputs-
 
  1. Collection URL 
