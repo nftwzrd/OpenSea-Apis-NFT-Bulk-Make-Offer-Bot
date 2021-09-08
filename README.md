@@ -39,8 +39,7 @@
 
 # Building a series of bots for OpenSea Market Place.
 
-- Art Buying Bot
-- Bidding + offer Bot
+- Make Bulk Offer Bot
 - Notification Bot - Sale, price, profile activity
 - Art and Metadata Scraping Bot
 - Bulk Auto deploy and Art Minting Bot
