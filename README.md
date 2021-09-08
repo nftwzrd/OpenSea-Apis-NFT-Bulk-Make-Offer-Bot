@@ -49,3 +49,17 @@
 - Suggestions are welcome.
 #nft
 
+
+# Make Bulk Offer Bots 
+###Bot Inputs-
+
+ 1. Collection URL 
+ 2. Metamask
+Bid Amount
+Bid expiration time  - only for Apis bot
+ The Bot takes collection Url as input and starts making offers on collection arts. 
+
+I have built two kinds of bots.
+
+
+
