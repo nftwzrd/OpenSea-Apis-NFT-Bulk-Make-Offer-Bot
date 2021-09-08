@@ -63,7 +63,7 @@ I have built two kinds of bots.
 
 ## Bot#1  Browser Automation Bot 
 - Build on Chrome browser automation  - Python
-- The Bot can be a single thread or Multihtread depends open Your machine power.
+- The Bot can be a single thread or Multithread depends open Your machine power.
 - The Bot is slow because it uses using chrome browser to make offers on arts. The Bot needs to sign every transaction like humans.
 - The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
