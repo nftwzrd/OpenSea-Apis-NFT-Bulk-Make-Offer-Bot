@@ -57,6 +57,9 @@ To Dos.
 
 
 # Make Bulk Offer Bot
+
+I have two bots for Making Bulk offers Bot#1 using Browser Automation and Bot#2 is using Opensea Apis bot.
+
 ### Bot Inputs-
 
  1. Collection URL 
@@ -88,3 +91,8 @@ Check more on the topic why the browsers consumes so many resources from [here](
 - The Bot can make offers with custom expiration time from 1 minute to 6months.
 - The Bot will never break because its light weighted and uses open sea Offical Apis. 
 - The Bot can make offers on multiple Collections in one run. 
+
+<p align="center">
+  <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/apis_bot.gif" alt="animated" />
+</p>
+
