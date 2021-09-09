@@ -77,6 +77,9 @@ I have built two kinds of bots.
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 
+![a](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 ## Bot#2  OpenSea Apis Bot 
 - Build on Opensea Official Apis.
 - The Bot is fast and robust - It does not need to sign transactions.
