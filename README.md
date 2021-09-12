@@ -47,7 +47,7 @@
 # Building a series of bots for OpenSea Market Place.
 To Dos.
 - [x]  Make Bulk Offer Bot
-- [ ]  Notification Bot - Sale, price, profile activity
+- [ ]  OpenSea Notification Bot - floor,sales,listings - Discord, Twitter,Telegram
 - [ ] Art and Metadata Scraping Bot
 - [ ]  Bulk Auto deploy and Art Minting Bot
 - [ ]  Python Generative Art Bot 
