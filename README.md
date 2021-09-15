@@ -79,6 +79,8 @@ I have built two kinds of bots.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
+You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
+
 
 <p align="center">
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/Browser_automation_bot.gif" alt="animated" />
@@ -91,6 +93,7 @@ Check more on the topic why the browsers consumes so many resources from [here](
 - The Bot can make offers with custom expiration time from 1 minute to 6months.
 - The Bot will never break because its light weighted and uses open sea Offical Apis. 
 - The Bot can make offers on multiple Collections in one run. 
+You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
 
 <p align="center">
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/apis_bot.gif" alt="animated" />
