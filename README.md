@@ -78,10 +78,14 @@ I have built two kinds of bots.
 - The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
 
+|Stats    |  Value   | 
+|---------|-----------------|
+|Speed Per minute |  3,5 offer       |
+|Miss a lot of offers.       |
+
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
 You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
-
 
 <p align="center">
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/Browser_automation_bot.gif" alt="animated" />
