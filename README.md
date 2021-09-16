@@ -136,8 +136,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot can make offers with custom expiration time from 1 minute to 6months.
 - The Bot will never break because its light weighted and uses open sea Offical Apis. 
 - The Bot can make offers on multiple Collections in one run. 
-<br />
-
+<br/>
 ### Pros & Cons  of OpenSea Production Env Apis Bot 
 
 <div align="center">
