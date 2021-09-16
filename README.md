@@ -78,7 +78,7 @@ I have built two kinds of bots.
 - The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
 
-## Statistics
+## Statistics of Browser Automation Bot
 
 |Stats    | 
 |---------|
@@ -86,6 +86,7 @@ I have built two kinds of bots.
 |Miss a lot of offers.       |
 |Break Some times       |
 |Can't Bid on Multiple Collections    |
+|Not Customizable We can not add more functionalities into bot|
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
@@ -101,15 +102,18 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot is fast and robust - It does not need to sign transactions.
 - The Bot can make offers with custom expiration time from 1 minute to 6months.
 - The Bot will never break because its light weighted and uses open sea Offical Apis. 
-- The Bot can make offers on multiple Collections in one run. 
+- The Bot can not make offers on multiple Collections in one run. 
 <br />
 
-|Stats    |  Value   | 
-|---------|-----------------|
-|Offers Per minute |  6-10 offer|
-|Does not misses any offer but takes time to handle rejections|
-|Does not misses any offer but takes time to handle rejections|
+## Statistics of OpenSea Apis Bot
 
+|Stats    | 
+|---------|
+|5-10 offers Per minute      |
+|Does not miss Any offer |
+|Does not break but takes time to handle Rejections from Opensea |
+|Can't Bid on Multiple Collections |
+|Customizable We can add more functionalities into bot|
 
 
 You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
@@ -117,4 +121,24 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 <p align="center">
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/apis_bot.gif" alt="animated" />
 </p>
+
+
+## Bot#3  OpenSea Production Env Apis Bot 
+- Build on Opensea Official Apis Deploy and run in Production Env.
+- The Bot is fast and robust - It does not need to sign transactions.
+- The Bot can make offers with custom expiration time from 1 minute to 6months.
+- The Bot will never break because its light weighted and uses open sea Offical Apis. 
+- The Bot can make offers on multiple Collections in one run. 
+<br />
+
+## Statistics of OpenSea Production Env Apis Bot 
+
+|Stats    | 
+|---------|
+|30-40 offers Per minute Lighting Fast Speed |
+|Does not miss Any offer 100% success rate |
+|Does not break also no Rejections from Opensea |
+|Can Bid on Multiple Collections in one run |
+|Customizable We can add more functionalities into bot|
+
 
