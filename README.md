@@ -52,7 +52,7 @@ To Dos.
 - [ ]  Bulk Auto deploy and Art Minting Bot
 - [ ]  Python Generative Art Bot 
 - [ ]  Rarity Ranking Bot
-- [ ]  Suggestions are welcome.
+- [ ]  These bots are not open Sources, Suggestions are welcome.
 #nft
 
 
