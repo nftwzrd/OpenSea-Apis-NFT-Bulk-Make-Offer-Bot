@@ -78,7 +78,9 @@ I have built two kinds of bots.
 - The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
 
-## Statistics of Browser Automation Bot
+## Pros & Cons of Browser Automation Bot
+
+<div align="center">
 
 |Stats    | 
 |---------|
@@ -87,6 +89,8 @@ I have built two kinds of bots.
 |Break Some times       |
 |Can't Bid on Multiple Collections    |
 |Not Customizable We can not add more functionalities into bot|
+
+</div>
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
@@ -106,7 +110,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 <br />
 
 
-### Statistics of OpenSea Apis Bot
+### Pros & Cons  of OpenSea Apis Bot
 
 <div align="center">
 
@@ -136,7 +140,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot can make offers on multiple Collections in one run. 
 <br />
 
-## Statistics of OpenSea Production Env Apis Bot 
+## Pros & Cons  of OpenSea Production Env Apis Bot 
 
 |Stats    | 
 |---------|
