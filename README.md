@@ -105,7 +105,9 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot can not make offers on multiple Collections in one run. 
 <br />
 
-## Statistics of OpenSea Apis Bot
+<center>
+
+### Statistics of OpenSea Apis Bot
 
 |Stats    | 
 |---------|
@@ -114,6 +116,8 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |Does not break but takes time to handle Rejections from Opensea |
 |Can't Bid on Multiple Collections |
 |Customizable We can add more functionalities into bot|
+
+</center>
 
 
 You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
