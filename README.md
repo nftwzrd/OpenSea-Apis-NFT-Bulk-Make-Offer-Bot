@@ -133,6 +133,8 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 
 ## Statistics of OpenSea Production Env Apis Bot 
 
+<p align="center">
+
 |Stats    | 
 |---------|
 |30-40 offers Per minute Lighting Fast Speed |
@@ -140,5 +142,5 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |Does not break also no Rejections from Opensea |
 |Can Bid on Multiple Collections in one run |
 |Customizable We can add more functionalities into bot|
-
+</p>
 
