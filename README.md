@@ -80,8 +80,10 @@ I have built two kinds of bots.
 
 |Stats    |  Value   | 
 |---------|-----------------|
-|Speed Per minute |  3,5 offer       |
+|Offers Per minute |  3-5 offer       |
 |Miss a lot of offers.       |
+|Break Some times       |
+|Can't Bid on Multiple Collections    |
 
 Check more on the topic why the browsers consumes so many resources from [here](https://meta.stackoverflow.com/questions/362294/why-do-stale-stack-overflow-tabs-use-so-many-resources)
 <br />
@@ -99,6 +101,14 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot will never break because its light weighted and uses open sea Offical Apis. 
 - The Bot can make offers on multiple Collections in one run. 
 <br />
+
+|Stats    |  Value   | 
+|---------|-----------------|
+|Offers Per minute |  6-10 offer|
+|Does not misses any offer but takes time to handle rejections|
+|Does not misses any offer but takes time to handle rejections|
+
+
 
 You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
 
