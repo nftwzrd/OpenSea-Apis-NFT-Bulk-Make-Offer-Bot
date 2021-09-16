@@ -58,7 +58,7 @@ To Dos.
 
 # Make Bulk Offer Bot
 
-I have two bots for Making low ball Bulk offers Bot#1 using Browser Automation and Bot#2 is using Opensea Apis bot.
+I have three bots for Making low ball Bulk offers Bot#1 using Browser Automation and Bot#2 is using Opensea Apis bot, Bot#3 is using Opensea  Production apis .
 
 ### Bot Inputs-
 
@@ -78,7 +78,7 @@ I have built two kinds of bots.
 - The Bot can not bid using a custom expiration date. It can only choose from 1,7,14,30 days.
 - The Bot can break between making offers and requires a powerful machine to make offers on 5k  arts because the chrome browser consumes many resources while running. 
 
-## Pros & Cons of Browser Automation Bot
+### Pros & Cons of Browser Automation Bot
 
 <div align="center">
 
@@ -124,13 +124,11 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 
 </div>
 
-
 You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtube.com/watch?v=hGNHiymdzyA)
 
 <p align="center">
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/apis_bot.gif" alt="animated" />
 </p>
-
 
 ## Bot#3  OpenSea Production Env Apis Bot 
 - Build on Opensea Official Apis Deploy and run in Production Env.
@@ -140,7 +138,9 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot can make offers on multiple Collections in one run. 
 <br />
 
-## Pros & Cons  of OpenSea Production Env Apis Bot 
+### Pros & Cons  of OpenSea Production Env Apis Bot 
+
+<div align="center">
 
 |Stats    | 
 |---------|
@@ -149,4 +149,5 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |Does not break also no Rejections from Opensea |
 |Can Bid on Multiple Collections in one run |
 |Customizable We can add more functionalities into bot|
+</div>
 
