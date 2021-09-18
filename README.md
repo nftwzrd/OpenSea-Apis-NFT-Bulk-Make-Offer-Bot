@@ -119,7 +119,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |5-10 offers Per minute      |
 |Does not miss Any offer |
 |Does not break but takes time to handle Rejections from Opensea |
-|Can't Bid on Multiple Collections |
+|Can Bid on Multiple Collections one after another|
 |Customizable We can add more functionalities into bot|
 
 </div>
@@ -147,7 +147,8 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |30-40 offers Per minute Lighting Fast Speed |
 |Does not miss Any offer 100% success rate |
 |Does not break also no Rejections from Opensea |
-|Can Bid on Multiple Collections in one run |
+|Can Bid on Multiple Collections in one run alternatively on arts|
 |Customizable We can add more functionalities into bot|
+|Outbid bot - In Development|
 </div>
 
