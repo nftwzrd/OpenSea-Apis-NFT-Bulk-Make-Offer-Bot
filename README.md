@@ -143,6 +143,6 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 |Does not break also no Rejections from Opensea |
 |Can Bid on Multiple Collections in one run alternatively on arts|
 |Customizable We can add more functionalities into bot|
-|Outbid bot - Bot has option to always percentage high from highest bid|
+|Outbid bot - Bot has option to bid always percentage high from highest bid|
 </div>
 
