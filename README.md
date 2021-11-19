@@ -124,7 +124,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
   <img src="https://github.com/Zeeshanahmad4/OpenSea-Apis-NFT-Bulk-Make-Offer-Bot/blob/main/apis_bot.gif" alt="animated" />
 </p>
 
-## Bot#3  OpenSea Production Env Apis Bot 
+## Bot#3  OpenSea Apis Bot#3 
 - Build on Opensea Official Apis Deploy and run in Production Env.
 - The Bot is fast and robust - It does not need to sign transactions.
 - The Bot can make offers with custom expiration time from 1 minute to 6months.
@@ -132,7 +132,7 @@ You can see the full Demo of the OpenSea Apis Bot from [here](https://www.youtub
 - The Bot can make offers on multiple Collections in one run. 
 <br/>
 
-### Pros & Cons  of OpenSea Production Env Apis Bot 
+### Pros & Cons  of OpenSea Apis Bot#3 
 
 <div align="center">
 
