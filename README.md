@@ -1,4 +1,4 @@
-<h1 align="center">OpenSea NFT Sniping Bot</h1>
+<h1 align="center">OpenSea NFT Bidding Bot</h1>
 <p align="center">
   <a href="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies">
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/fullcrop.png" alt="Logo" width="140" height="220">
