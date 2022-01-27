@@ -29,7 +29,7 @@
 </div>
 	
 <div align="center">
-  <strong>For Disscussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
+  <strong>For Discussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
 <br />
 
