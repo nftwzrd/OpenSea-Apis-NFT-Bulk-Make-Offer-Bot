@@ -7,7 +7,7 @@
 </a>
 	<span> ┃ </span>
 	
-  <a href="https://discord.gg/78CXpaVC" style="margin-top: 12px;">
+  <a href="https://discord.gg/xHgnePtV7s" style="margin-top: 12px;">
   <img  align="center" alt="Discord link" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 	  <code>Join NftWzrd Server</code>
 </a>
