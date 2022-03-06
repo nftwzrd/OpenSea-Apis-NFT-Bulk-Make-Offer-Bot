@@ -22,16 +22,16 @@
 <img src="https://i.imgur.com/vlNlTAe.png" width=100%  />
 
 <div align="center">
-	<a align="center"  href="https://discord.gg/78CXpaVC" >	
+	<a align="center"  href="https://discord.gg/xHgnePtV7s" >	
   		<img align="center"  alt="Abhishek's Discord" width="700px" src="https://i.imgur.com/pT53N0Z.png" />
 	</a>
 </div>
 
 <div align="center">
   <strong >Check out full demo on youtube from <a href="https://www.youtube.com/watch?v=bPEVa5CEd7o">here</a> </strong>
-<a  href="https://discord.gg/78CXpaVC" >
+<a  href="https://discord.gg/xHgnePtV7s" >
 	<img src="https://i.imgur.com/utUHeuk.png" width="100%"  />
 </a>
-<a  href="https://discord.gg/78CXpaVC" >
+<a  href="https://discord.gg/xHgnePtV7s" >
 	<img src="https://i.imgur.com/bolEPmS.png" width="100%" />
 </a>
