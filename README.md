@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <strong >Check out full demo on youtube from <a href="https://www.youtube.com/watch?v=bPEVa5CEd7o">here</a> </strong>
+  <strong >Check out full demo on youtube from <a href="https://youtu.be/NMU-1fgZB9s">here</a> </strong>
 <a  href="https://discord.gg/xHgnePtV7s" >
 	<img src="https://i.imgur.com/utUHeuk.png" width="100%"  />
 </a>
